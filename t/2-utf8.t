@@ -9,7 +9,7 @@ use Test::More;
 use Test::More::UTF8;
 
 BEGIN {
-    eval "use Encode qw( _utf8_on is_utf8 decode encode);";
+    eval "use Encode qw( is_utf8 encode);";
     if ($@) {
         plan skip_all => "Encode module not available";
     }
