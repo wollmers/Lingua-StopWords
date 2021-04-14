@@ -1,6 +1,8 @@
 Revision history for Perl extension Lingua::StopWords
 
 {{$NEXT}}
+
+0.10  2021-04-14 23:26:39 CEST
     * Port source to UTF-8
 
 0.09  2008-08-22
