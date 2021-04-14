@@ -1,5 +1,7 @@
 Revision history for Perl extension Lingua::StopWords
 
+{{$NEXT}}
+
 0.09  2008-08-22
     * Update Spanish stoplist to latest Snowball version.  This is a
       backwards-incompatible change, but the old list was broken, containing
