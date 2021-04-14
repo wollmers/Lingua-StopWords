@@ -103,7 +103,7 @@ for English.
 
 =head1 SOURCE REPOSITORY
 
-L<http://github.com/wollmers/Lingua-StopWords>
+L<https://github.com/wollmers/Lingua-StopWords>
 
 =head1 AUTHOR
 
