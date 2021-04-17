@@ -1,6 +1,8 @@
 Revision history for Perl extension Lingua::StopWords
 
 {{$NEXT}}
+
+0.11  2021-04-17 21:58:55 CEST
     * added Romanian and Indonesian stoplists
     * encoding of Hungarian corrected to ISO-8859-2
 
