@@ -20,7 +20,7 @@ sub getStopWords {
         return \%stoplist;
     }
     else {
-        my %stoplist = map { ( encode("iso-8859-1", $_), 1 ) } _stopwords();
+        my %stoplist = map { ( encode("iso-8859-2", $_), 1 ) } _stopwords();
         return \%stoplist;
     }
 }

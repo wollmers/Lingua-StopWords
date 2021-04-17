@@ -23,7 +23,7 @@ my $tests = [
     [qw(es qué  iso-8859-1)],
     [qw(fi minä iso-8859-1)],
     [qw(fr été  iso-8859-1)],
-    [qw(hu elő  iso-8859-1)],
+    [qw(hu elő  iso-8859-2)],
     [qw(it più  iso-8859-1)],
     [qw(id dia  iso-8859-1)],
     [qw(nl hij  iso-8859-1)],

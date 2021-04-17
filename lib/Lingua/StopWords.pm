@@ -59,7 +59,7 @@ several languages.
     | Finnish    | fi       | ISO-8859-1       | UTF-8          |
     | French     | fr       | ISO-8859-1       | UTF-8          |
     | German     | de       | ISO-8859-1       | UTF-8          |
-    | Hungarian  | hu       | ISO-8859-1       | UTF-8          |
+    | Hungarian  | hu       | ISO-8859-2       | UTF-8          |
     | Indonesian | id       | ISO-8859-1       | UTF-8          |
     | Italian    | it       | ISO-8859-1       | UTF-8          |
     | Norwegian  | no       | ISO-8859-1       | UTF-8          |
