@@ -1,6 +1,7 @@
 Revision history for Perl extension Lingua::StopWords
 
 {{$NEXT}}
+    * Release 0.12
 
 0.11  2021-04-17 21:58:55 CEST
     * added Romanian and Indonesian stoplists
