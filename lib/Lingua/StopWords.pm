@@ -94,6 +94,15 @@ The second argument should be 'UTF-8' if you want the stopwords encoded in
 UTF-8.  The UTF-8 flag will be turned on, so make sure you understand all the
 implications of that.
 
+=head1 INSTALLATION
+
+To install this module type the following:
+
+   perl Build.PL
+   ./Build
+   ./Build test
+   ./Build install
+
 =head1 SEE ALSO
 
 The stoplists supplied by this module were created as part of the Snowball
