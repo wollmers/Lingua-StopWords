@@ -54,67 +54,67 @@
    "provides" : {
       "Lingua::StopWords" : {
          "file" : "lib/Lingua/StopWords.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::DA" : {
          "file" : "lib/Lingua/StopWords/DA.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::DE" : {
          "file" : "lib/Lingua/StopWords/DE.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::EN" : {
          "file" : "lib/Lingua/StopWords/EN.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::ES" : {
          "file" : "lib/Lingua/StopWords/ES.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::FI" : {
          "file" : "lib/Lingua/StopWords/FI.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::FR" : {
          "file" : "lib/Lingua/StopWords/FR.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::HU" : {
          "file" : "lib/Lingua/StopWords/HU.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::ID" : {
          "file" : "lib/Lingua/StopWords/ID.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::IT" : {
          "file" : "lib/Lingua/StopWords/IT.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::NL" : {
          "file" : "lib/Lingua/StopWords/NL.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::NO" : {
          "file" : "lib/Lingua/StopWords/NO.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::PT" : {
          "file" : "lib/Lingua/StopWords/PT.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::RO" : {
          "file" : "lib/Lingua/StopWords/RO.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::RU" : {
          "file" : "lib/Lingua/StopWords/RU.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Lingua::StopWords::SV" : {
          "file" : "lib/Lingua/StopWords/SV.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       }
    },
    "release_status" : "stable",
@@ -129,7 +129,7 @@
          "web" : "https://github.com/wollmers/Lingua-StopWords"
       }
    },
-   "version" : "0.11",
+   "version" : "0.12",
    "x_serialization_backend" : "Cpanel::JSON::XS version 4.15",
    "x_static_install" : 1
 }

@@ -12,7 +12,7 @@ our @ISA = qw(Exporter);
 
 our %EXPORT_TAGS = ( 'all' => [ qw( getStopWords ) ] );
 our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
-our $VERSION = 0.11;
+our $VERSION = 0.12;
 
 sub getStopWords {
     if ( @_ and $_[0] eq 'UTF-8' ) {
